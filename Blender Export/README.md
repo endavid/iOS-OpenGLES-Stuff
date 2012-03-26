@@ -9,15 +9,15 @@ Installation
 --------------
 Installing the Blender Objective-C Export Script:
 
-1) Launch Blender
-2) Select "User Preferences" from the File menu
-3) Navigate to the "Add-Ons" tab
-4) In the lower-left corner of the window, click the button that reads "Install Add-On…"
-5) Find io_export_objective_c_header.py in your file system and select it
-6) Click the "Import/Export" button on the left side to show only the Import/Export add-ons
-7) Look for an item called "Import/Export: Export Objective-C Header (.h)". Click the checkbox associated with that row to enable the script
-8) Close the User Preferences window
-9) Select "Save User Settings" from the File menu
+    1. Launch Blender
+    2. Select "User Preferences" from the File menu
+    3. Navigate to the "Add-Ons" tab
+    4. In the lower-left corner of the window, click the button that reads "Install Add-On…"
+    5. Find io_export_objective_c_header.py in your file system and select it
+    6. Click the "Import/Export" button on the left side to show only the Import/Export add-ons
+    7. Look for an item called "Import/Export: Export Objective-C Header (.h)". Click the checkbox associated with that row to enable the script
+    8. Close the User Preferences window
+    9. Select "Save User Settings" from the File menu
 
 Usage
 ------
