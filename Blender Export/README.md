@@ -29,7 +29,7 @@ When you add the add-on to the application, it will copy the script into the app
 License
 --------
 ### Modifications ###
-Some patches added by David Gavilan. Check revision history.
+This code may have been modified by several authors. Check revision history.
 
 ### Original licence ###
 Copyright (c) 2010 ['Jeff LaMarche']
